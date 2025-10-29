@@ -1,3 +1,7 @@
+# Phạm Xuân Nhựt - 31231026297- Hân hạnh xin chào
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1JRtsuaqimbdvzApOD5oKZL4rv2cQZlb_" alt="Phạm Xuân Nhựt" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nhut.p.xuan?locale=vi_VN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pxuanhut/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pxnhut1652005@gmail.com) 
